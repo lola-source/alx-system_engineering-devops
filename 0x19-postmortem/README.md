@@ -2,13 +2,13 @@
 
 ## 504 Error while accessing a given URL
 <p align="center">
-<img src="https://raw.githubusercontent.com/lola-source/alx-system_engineering-devops/master/0x19-postmortem/image.gif" width=100% height=100% />
+<img src="https://raw.githubusercontent.com/lola-source/alx-system_engineering-devops/master/0x19-postmortem/mage.jpeg" width=100% height=100% />
 </p>
 
 ### Incident report for [504 error / Site Outage](https://github.com/lola-source/alx-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)
 
 #### Summary
-On September 11th, 2018 at midnight the server access went down resulting in 504 error for anyone trying to access a website. Background on the server being based on a LAMP stack.
+On November 2nd, 2022 at midnight the server access went down resulting in 504 error for anyone trying to access a website. Background on the server being based on a LAMP stack.
 
 #### Timeline
 - **00:00 PST** - 500 error for anyone trying to access the website
